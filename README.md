@@ -1,4 +1,4 @@
-# Issue Tracker
+# Personal Library
 
 A full stack application that manages books and their subsequent user comments for the Freecodecamp curriculum.
 
